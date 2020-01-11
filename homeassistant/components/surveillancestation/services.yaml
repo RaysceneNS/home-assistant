@@ -1,0 +1,10 @@
+set_home_mode:
+  description: Set the SurveillanceStation home mode
+  fields:
+    id:
+      description: The name of the SurveillanceStation.
+      example: "SurveillanceStation"
+    home_mode:
+      description: home or away mode
+      example: "home"
+  
